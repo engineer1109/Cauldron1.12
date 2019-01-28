@@ -21,3 +21,6 @@
 2.run.bat java -Xms2G -Xmx4G -jar PFServer-xxx-server.jar<br>
 3.eula.txt set eula=true<br>
 4.Forge Mod put Mods File or Bukkit/Spigot plugin put plugins File
+
+
+build/libraries
